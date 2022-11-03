@@ -1,2 +1,2 @@
 use dataset
-reg x y z
+reg x y z, robust
